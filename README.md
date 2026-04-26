@@ -6,6 +6,10 @@ The artifact focuses on building a detailed and interactive 3D environment by co
 
 Skills Demonstrated: OpenGL Rendering • 3D Transformations • Lighting (Ambient, Diffuse, Specular) • Texture Mapping • Camera Controls • Scene Composition • Modular Programming
 
+## Project Preview
+
+![3D Scene Screenshot](OfficeScene.png)
+
 ---
 
 ## Reflection Journal
