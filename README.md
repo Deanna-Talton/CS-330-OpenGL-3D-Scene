@@ -10,6 +10,8 @@ Skills Demonstrated: OpenGL Rendering • 3D Transformations • Lighting (Ambie
 
 ![3D Scene Screenshot](OfficeScene.png)
 
+![3D Scene Screenshot](LavaLamp.png)
+
 ---
 
 ## Reflection Journal
